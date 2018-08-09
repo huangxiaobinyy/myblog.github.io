@@ -18,19 +18,4 @@
     </data>
     </url>
 
-    
-  <url>
-    <loc>https://huangxiaobinyy.github.io/myblog.github.io/myblog.github.io/2018/08/08/hello-world/</loc>
-    <lastmod>2018-08-08T04:40:33.469Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-08-08T04:40:33.469Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
